@@ -32,6 +32,7 @@ $(document).ready(function() {
         autoplay: true,
         fade: true,
         adaptiveHeight: true,
+        autoplay: false,
     });
 
 });

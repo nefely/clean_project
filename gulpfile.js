@@ -32,6 +32,7 @@ function scripts_bandle() {
 function styles_bandle() {
   return src([
     "css/general.css",
+    "css/custom-general.css",
     "pluggins/**/*.css",
     "css/components/**/*.css",
   ])
